@@ -1,3 +1,3 @@
-[Reacted webpage](https://hrkucuk.github.io/reacted) ![](https://travis-ci.org/hrkucuk/reacted.svg?branch=master)
+[Reacted webpage](https://wellput.github.io/reacted) ![](https://travis-ci.org/wellput/reacted.svg?branch=master)
 
 Where react happens.
